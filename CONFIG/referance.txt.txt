@@ -1,0 +1,1 @@
+https://phoenixnap.com/kb/setup-configure-modsecurity-on-apache
