@@ -6,6 +6,7 @@ set showcmd
 set hlsearch
 set ignorecase
 set smartcase
+set wrap!
 set mouse=a
 set pastetoggle=<F11>
 
